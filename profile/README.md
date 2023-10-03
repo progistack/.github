@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Bienvenue sur le repository de Progistack</h1>
+<h1 align="center">Salut 👋, Bienvenue sur le repository de Progistack</h1>
 <h3 align="center">
   Modernisez vos processus métier avec notre expertise digitale, grâce à des
   solutions adaptées à vos défis d'aujourd'hui et de demain
