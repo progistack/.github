@@ -33,15 +33,7 @@
 
 <h3 align="left">Languages et Outils:</h3>
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
+<p align="left" style="background-color:#ffffff">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -66,14 +58,6 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -86,14 +70,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
       width="40"
       height="40"
     />
@@ -134,26 +110,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
       alt="kibana"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
       width="40"
       height="40"
     />
@@ -212,18 +172,3 @@
   </a>
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=progistack&show_icons=true&locale=en"
-    alt="progistack"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=progistack&"
-    alt="progistack"
-  />
-</p>
