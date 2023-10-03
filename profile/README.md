@@ -1,4 +1,4 @@
-![PROGISTACK](progistack.png)
+![PROGISTACK](./progistack.png)
 
 ---
 
@@ -15,7 +15,7 @@
   />
 </p>
 
-![PROGISTACK](home.png)
+![PROGISTACK](./home.png)
 
 <h3 align="left">Rétrouvez nous sur:</h3>
 <p align="left">
